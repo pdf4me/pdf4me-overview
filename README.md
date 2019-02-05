@@ -8,7 +8,7 @@ For an easy integration into Pdf4me a simple API is provided. For you to have ev
 
 - [C#](https://github.com/pdf4me/pdf4me-clientapi-dotnet)
 - [Java](https://github.com/pdf4me/pdf4me-clientapi-java)
-- [javascript (Node js)](https://github.com/pdf4me/pdf4me-clientapi-js)
+- [javascript (Node js)](https://github.com/pdf4me/pdf4me-clientapi-javascript)
 - [PHP](https://github.com/pdf4me/pdf4me-clientapi-php)
 - [Python](https://github.com/pdf4me/pdf4me-clientapi-python)
 - [Ruby](https://github.com/pdf4me/pdf4me-clientapi-ruby)
