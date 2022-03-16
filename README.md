@@ -1,6 +1,6 @@
 # pdf4me
 
-Whether you want to merge two PDF documents or wish to alter a document in a more complex way, [Pdf4me](https://pdf4me.com) is the tool for you. Pdf4me provides you the possibility to use simple, mostly predefined methods for fast and simple modifications.
+Whether you want to merge two PDF documents or wish to alter a document in a more complex way, [Pdf4me](https://pdf4me.com/) is the tool for you. Pdf4me provides you the possibility to use simple, mostly predefined methods for fast and simple modifications.
 
 ### API Clients
 
