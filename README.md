@@ -1,7 +1,8 @@
 # pdf4me
 
-[PDF4me](https://pdf4me.com/) is a comprehensive and powerful [document automation](https://pdf4me.com/automation/) and document management solution. Powered with robust and scalable APIs, PDF4me Connect for Power Apps caters to the need of any entity that handles digital documents, to connect across various apps and automate document jobs.
-We are passionate to deliver the best automation solution for your various document tasks like -
+[PDF4me](https://pdf4me.com/) is a comprehensive and powerful [document automation](https://pdf4me.com/automation/) and document management solution. Powered with robust and scalable APIs, PDF4me Integrations for no-code platforms like Poer Automate, Zapier, Integromat, and Appy Pie caters to the need of any entity that handles digital documents, to connect across various apps and automate document jobs.
+
+We are passionate to deliver the best solutions for your various document tasks like -
 - Dynamic document generation using templates and various data sources for creating customized bills, invoices, receipts, legal contracts, letters, business quotes, and more.
 - Converting Word, Excel, Powerpoint, and Images to PDF and converting from PDF to
 these formats
