@@ -1,6 +1,16 @@
 # pdf4me
 
-Whether you want to merge two PDF documents or wish to alter a document in a more complex way, [Pdf4me](https://pdf4me.com/) is the tool for you. Pdf4me provides you the possibility to use simple, mostly predefined methods for fast and simple modifications.
+[PDF4me](https://pdf4me.com/) is a comprehensive and powerful [document automation](https://pdf4me.com/automation/) and document management solution. Powered with robust and scalable APIs, PDF4me Connect for Power Apps caters to the need of any entity that handles digital documents, to connect across various apps and automate document jobs.
+We are passionate to deliver the best automation solution for your various document tasks like -
+- Dynamic document generation using templates and various data sources for creating customized bills, invoices, receipts, legal contracts, letters, business quotes, and more.
+- Converting Word, Excel, Powerpoint, and Images to PDF and converting from PDF to
+these formats
+- Splitting, merging, and editing of PDF.
+- Advanced OCR for recognizing and extracting data.
+- Creating and adding advanced barcodes and QR codes.
+
+[Read our Blogs](https://pdf4me.com/blog/) to know more about how PDF4me can transform document management.
+
 
 ### API Clients
 
